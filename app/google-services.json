@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510232094963",
+    "firebase_url": "https://fir-app-ee692.firebaseio.com",
+    "project_id": "fir-app-ee692",
+    "storage_bucket": "fir-app-ee692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510232094963:android:b79099dd267839d2",
+        "android_client_info": {
+          "package_name": "com.muktadir.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510232094963-j1vmibkotl18r95u0th88qn4v3m018r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muktadir.firebaseapp",
+            "certificate_hash": "3330cc3107f83d5cb5e6d78bd92e5d0c24ca99b3"
+          }
+        },
+        {
+          "client_id": "510232094963-v3d3pd4oq2365g2qf01l557ln43o6ud5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8SBTR-Foxy11yEt4RZBEzAGONbKd2U8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510232094963-v3d3pd4oq2365g2qf01l557ln43o6ud5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
